@@ -11,7 +11,7 @@
 ## 📜 Certifications
 
 <p align="center">
-  <a href="https://certificate.ithillel.ua/view/45457844" target="_blank">
+  <a href="https://certificate.ithillel.ua/view/45457844">
     <img alt="Hillel: Python Basic" src="Images/Python-Basic.png" width="auto" height="190" />
   </a>
   <a href="https://certificate.ithillel.ua/view/29059734">
