@@ -2,6 +2,11 @@
 <img src="Images/borderseparator.gif" width="100%"/>
 <img src="Images/animated-flame-01.gif" width="16px" align="left"/>
 <img src="Images/animated-flame-01.gif" width="16px" align="right"/>
+</br>
+</br>
+<div align="center">
+  <img src="Images/cheems-doge.gif" alt="Hello! It is me!" width="100%" height="700px"/><br>
+</div>
 
 <h1 align="center"> 📜 Certifications </h1>
 
