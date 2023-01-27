@@ -1,13 +1,13 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Yevgen+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Yevgen and Welcome to my Profile! animated typed out" width="100%"/>
-<img src="Images/borderseparator.gif" width="100%"/>
 <img src="Images/animated-flame-01.gif" width="16px" align="left"/>
 <img src="Images/animated-flame-01.gif" width="16px" align="right"/>
-</br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Yevgen+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Yevgen and Welcome to my Profile! animated typed out" width="100%"/>
+<img src="Images/borderseparator.gif" width="100%"/>
 </br>
 <div align="center">
   <img src="Images/cheems-doge.gif" alt="Hello! It is me!" width="100%" height="700px"/><br>
 </div>
-
+<img src="Images/animated-flame-01.gif" width="16px" align="left"/>
+<img src="Images/animated-flame-01.gif" width="16px" align="right"/>
 <h1 align="center"> 📜 Certifications </h1>
 
 <p align="center">
