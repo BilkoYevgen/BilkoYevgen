@@ -8,4 +8,7 @@
 <br>
 <br>
 
+
+Watch a 🐍 eat my GitHub contributions 🍏.
+
 ![GitHubContributionsSnake](https://github.com/BilkoYevgen/BilkoYevgen/blob/GitHubContributionsSnakeImage/github-contribution-grid-snake.svg)
