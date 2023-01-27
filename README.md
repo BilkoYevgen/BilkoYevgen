@@ -10,7 +10,7 @@
 
 ## 📜 Certifications
 
-[![Hillel: Python Basic](Images/Python-Basic)](https://certificate.ithillel.ua/view/45457844)
+[![Hillel: Python Basic](Images/Python-Basic.png)](https://certificate.ithillel.ua/view/45457844)
 
 
 Watch a 🐍 eat my GitHub contributions 🍏.
