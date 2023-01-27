@@ -7,3 +7,5 @@
 
 <br>
 <br>
+
+![snake gif](https://github.com/BilkoYevgen/Test/blob/main/.github/workflows/snake.yml)
