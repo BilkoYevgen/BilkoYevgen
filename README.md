@@ -8,4 +8,4 @@
 <br>
 <br>
 
-![snake gif](https://github.com/BilkoYevgen/BilkoYevgen/blob/output/github-contribution-grid-snake.gif)
+![GitHubContributionsSnake](https://github.com/BilkoYevgen/BilkoYevgen/blob/GitHubContributionsSnakeImage/github-contribution-grid-snake.svg)
