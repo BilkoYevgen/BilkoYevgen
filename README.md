@@ -10,9 +10,17 @@
 
 ## 📜 Certifications
 
-[![Hillel: Python Basic](Images/Python-Basic.png)](https://certificate.ithillel.ua/view/45457844)
-[![Hillel: Front-End Basic](Images/Front-End-Basic.png)](https://certificate.ithillel.ua/view/29059734)
-[![Hillel: Internet Marketing](Images/Internet-Marketing.png)](https://certificate.ithillel.ua/view/32395756)
+<p align="center">
+  <a href="https://certificate.ithillel.ua/view/45457844">
+    <img alt="Hillel: Python Basic" src="Images/Python-Basic.png" width="auto" height="300" />
+  </a>
+  <a href="https://certificate.ithillel.ua/view/29059734">
+    <img alt="Hillel: Front-End Basic" src="Images/Front-End-Basic.png" width="auto" height="300"  />
+  </a>
+  <a href="https://certificate.ithillel.ua/view/32395756">
+    <img alt="Hillel: Internet Marketing" src="Images/Internet-Marketing.png" width="auto" height="300"/>
+  </a>
+</p>
 
 
 Watch a 🐍 eat my GitHub contributions 🍏.
