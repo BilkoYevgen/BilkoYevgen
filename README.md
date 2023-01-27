@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://certificate.ithillel.ua/view/45457844">
-    <img alt="Hillel: Python Basic" src="Images/Python-Basic.png" width="auto" height="300" />
+    <img alt="Hillel: Python Basic" src="Images/Python-Basic.png" width="auto" height="100" />
   </a>
   <a href="https://certificate.ithillel.ua/view/29059734">
-    <img alt="Hillel: Front-End Basic" src="Images/Front-End-Basic.png" width="auto" height="300"  />
+    <img alt="Hillel: Front-End Basic" src="Images/Front-End-Basic.png" width="auto" height="100"  />
   </a>
   <a href="https://certificate.ithillel.ua/view/32395756">
-    <img alt="Hillel: Internet Marketing" src="Images/Internet-Marketing.png" width="auto" height="300"/>
+    <img alt="Hillel: Internet Marketing" src="Images/Internet-Marketing.png" width="auto" height="100"/>
   </a>
 </p>
 
