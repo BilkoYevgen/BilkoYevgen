@@ -1,12 +1,7 @@
-
-<p align="center">
-  <img width="45%" height="auto" src="https://user-images.githubusercontent.com/72156168/130989446-dffc4c7e-3b3d-4177-a877-6c90e9d6e292.png" />
-  </p>
-<h1 align="center">Hi 👋, I'm Bilko Yevgen</h1>
-<h3 align="center">Just a begginer</h3>
-
-<br>
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Yevgen+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Yevgen and Welcome to my Profile! animated typed out" width="100%"/>
+<img src="Images/borderseparator.gif" width="100%"/>
+<img src="Images/animated-flame-01.gif" width="16px" align="left"/>
+<img src="Images/animated-flame-01.gif" width="16px" align="right"/>
 
 ## 📜 Certifications
 
