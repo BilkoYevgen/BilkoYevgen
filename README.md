@@ -11,7 +11,7 @@
 ## 📜 Certifications
 
 [![Hillel: Python Basic](Images/Python-Basic.png)](https://certificate.ithillel.ua/view/45457844)
-[![Hillel: Front-End Basic](Images/Front-End_Basic.png)](https://certificate.ithillel.ua/view/29059734)
+[![Hillel: Front-End Basic](Images/Front-End-Basic.png)](https://certificate.ithillel.ua/view/29059734)
 [![Hillel: Internet Marketing](Images/Internet-Marketing.png)](https://certificate.ithillel.ua/view/32395756)
 
 
