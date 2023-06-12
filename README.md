@@ -51,11 +51,11 @@
   <a href="https://certificate.ithillel.ua/view/32395756">
     <img alt="Hillel: Internet Marketing" src="Images/Internet-Marketing.png" width="auto" height="190"/>
   </a>
-  <a href="https://certificate.ithillel.ua/view/29059734">
-    <img alt="Hillel: Front-End Basic" src="Images/EF SET Certificate.pdf" width="auto" height="190"  />
+  <a href="www.efset.org/cert/Wtj3k6">
+    <img alt="Hillel: Front-End Basic" src="Images/EFSET.jpg" width="auto" height="190"  />
   </a>
-  <a href="https://certificate.ithillel.ua/view/29059734">
-    <img alt="Hillel: Front-End Basic" src="Images/Front-End-Basic.png" width="auto" height="190"  />
+  <a href="https://my-ua.robotdreams.cc/uk/certificate/6486ee1826e2c">
+    <img alt="Hillel: Front-End Basic" src="Images/Robot.jpg" width="auto" height="190"  />
   </a>
 </p>
 
