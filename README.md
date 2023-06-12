@@ -51,7 +51,7 @@
   <a href="https://certificate.ithillel.ua/view/32395756">
     <img alt="Hillel: Internet Marketing" src="Images/Internet-Marketing.png" width="auto" height="190"/>
   </a>
-  <a href="www.efset.org/cert/Wtj3k6">
+  <a href="https://www.efset.org/cert/Wtj3k6">
     <img alt="Hillel: Front-End Basic" src="Images/EFSET.jpg" width="auto" height="190"  />
   </a>
   <a href="https://my-ua.robotdreams.cc/uk/certificate/6486ee1826e2c">
