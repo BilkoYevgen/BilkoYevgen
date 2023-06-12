@@ -9,7 +9,7 @@
 
 <h1 align="center">😲 About Me </h1>
 
-<p align="center">🌱 I’m currently learning **at robot_dreams school** </p>
+<p align="center">🌱 I’m currently open to work </p>
 <p align="center">⚡ Fun fact **2nd Officer on passenger ships (In a past life)** </p>
                   
 </br>
