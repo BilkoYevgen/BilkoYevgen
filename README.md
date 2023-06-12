@@ -51,6 +51,12 @@
   <a href="https://certificate.ithillel.ua/view/32395756">
     <img alt="Hillel: Internet Marketing" src="Images/Internet-Marketing.png" width="auto" height="190"/>
   </a>
+  <a href="https://certificate.ithillel.ua/view/29059734">
+    <img alt="Hillel: Front-End Basic" src="Images/EF SET Certificate.pdf" width="auto" height="190"  />
+  </a>
+  <a href="https://certificate.ithillel.ua/view/29059734">
+    <img alt="Hillel: Front-End Basic" src="Images/Front-End-Basic.png" width="auto" height="190"  />
+  </a>
 </p>
 
 <img src="Images/animated-flame-01.gif" width="16px" align="left"/>
