@@ -58,7 +58,7 @@
     <img alt="EF SET Certificate" src="Images/EFSET.jpg" width="auto" height="190"  />
   </a>
   <a href="https://my-ua.robotdreams.cc/uk/certificate/6486ee1826e2c">
-    <img alt="Robot Dreams Python Developer" src="Images/Robot.jpg" width="auto" height="190"  />
+    <img alt="Robot Dreams Python Developer" src="Images/Robot-diploma.jpg" width="auto" height="190"  />
   </a>
 </p>
 
