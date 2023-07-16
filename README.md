@@ -64,6 +64,3 @@
 
 <img src="Images/animated-flame-01.gif" width="16px" align="left"/>
 <img src="Images/animated-flame-01.gif" width="16px" align="right"/>
-<h1 align="center"> Watch a 🐍 eat my GitHub contributions 🍏.  </h1>
-
-![GitHubContributionsSnake](https://github.com/BilkoYevgen/BilkoYevgen/blob/GitHubContributionsSnakeImage/github-contribution-grid-snake.svg)
